@@ -173,12 +173,5 @@ switch (shopOptionPrompt) {
     break;
 }
 };
-
 // start the game when the page loads
 startGame();
-
-
-
-
-
-
